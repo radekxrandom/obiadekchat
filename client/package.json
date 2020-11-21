@@ -1,0 +1,59 @@
+{
+  "name": "front",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/react": "^9.3.2",
+    "@testing-library/user-event": "^7.1.2",
+    "@welldone-software/why-did-you-render": "^4.2.5",
+    "axios": "^0.19.2",
+    "bcryptjs": "^2.4.3",
+    "hybrid-crypto-js": "^0.2.2",
+    "is-empty": "^1.2.0",
+    "jwt-decode": "^2.2.0",
+    "moment": "^2.27.0",
+    "react": "^0.0.0-experimental-7f28234f8",
+    "react-color": "^2.18.1",
+    "react-dom": "^0.0.0-experimental-7f28234f8",
+    "react-fast-compare": "^3.2.0",
+    "react-loading-skeleton": "^2.1.1",
+    "react-redux": "^7.2.0",
+    "react-scripts": "3.4.1",
+    "react-toolbox": "^2.0.0-beta.13",
+    "reactjs-popup": "^1.5.0",
+    "redux": "^4.0.5",
+    "redux-thunk": "^2.3.0",
+    "rsuite": "^4.7.5",
+    "sha256": "^0.2.0",
+    "socket.io-client": "^2.3.0",
+    "swr": "^0.2.3",
+    "tabler-icons-react": "^1.3.0",
+    "uifx": "^2.0.7"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "generate": "rc-autocomplete"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "react-autocomplete-cli": "^0.0.3"
+  }
+}

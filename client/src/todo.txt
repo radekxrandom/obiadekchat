@@ -1,0 +1,38 @@
+d20.06.2020 sat
+ - done! img url to img
+ - done! fix username before img
+ - done! show online status
+ - done! removing users
+ . done! repair img gal-lery
+
+
+21.06.2020 sun
+ - fix friends order on side (added without messages)
+ - done! finish online status
+ - msgs purge
+ - done? start  working on settings
+ - done! finish gallery
+ - done! add option to remove freindship accepted notification
+ - temp names when inviting thru url
+
+22.06.2020 MON
+  - on mobile expand menu on every icon click not only on specific one
+  - SETTINGS!
+  - MSG PURGE! BE SAEF!
+  - fix responsive design issues (looking fine on chrome dev tools but ugly on real mobile device?)
+  - ability to shrink/hide menu not only automatically on mobile but always
+  - themes
+
+23.06.2020 WED
+  - MSGS PURGE
+  - settings
+  - mobile menu expand
+  - done! SOUND ON NEW MSG
+  - done! new auth
+
+
+  - settings
+  - temp usrname
+  - fix bugs (invite by url)
+  - optimize
+  - ship
