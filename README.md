@@ -1,3 +1,6 @@
+#### [Unmaintained, som issues don't work. It's here for nostalgic reasons only]
+
+
 <h1 align="center">Obiadekchat - https://obiadekchat.now.sh/</h1>
 
 > Built with MERN stack (MongoDB, Express, React and Node) and socket.io.
